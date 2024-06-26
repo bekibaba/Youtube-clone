@@ -43,3 +43,19 @@ nav{
 .nav-middle .mic-icon{
     width: 16px;
 }
+.nav-middle .serch-box{
+    border: 1px solid #ccc;
+    margin-right: 15px;
+    padding: 8px 12px;
+    border-radius: 25px;
+
+}
+.nav-middle .serch-box input{
+    width: 400px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+}
+.nav-middle .serch-box img{
+    width: 15px;
+}
